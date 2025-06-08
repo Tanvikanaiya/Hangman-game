@@ -35,7 +35,7 @@ Guess wisely to avoid the hangman and win the game.
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/hangman-game.git
+   git clone https://github.com/Tanvikanaiya/Hangman-game/edit/master/README.md
    cd hangman-game
 2. **Run the Game**
    python hangman.py
@@ -45,6 +45,7 @@ Guess letters and try to find the word before your lives run out.
 .
 
 💡 Sample Gameplay
+
 _ _ _ _ _ _
 Guess a letter: a
 Correct! The word now: _ a _ _ _ _
